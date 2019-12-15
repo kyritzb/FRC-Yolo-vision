@@ -4,9 +4,5 @@
 1. Added the ability for the detector to select closet object if it detects object more then once. This will be useful for robotics locking onto the closest object.
 2. Trained model using [Supervisely](https://supervise.ly/)
 
-## Detection Example
-
-![Detection Example](https://i.imgur.com/m2jwneng.png)
-
 ## Weights
 [Link to weights for Hatch](https://drive.google.com/file/d/1jDIXOPzHHXc8evMTW-0w_kXeUvOXYbqh/view?usp=sharing)
